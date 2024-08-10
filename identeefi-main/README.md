@@ -2,13 +2,7 @@
 
 The Anti-Counterfeit Product Identification System Using Blockchain is an innovative solution that uses blockchain technology to combat counterfeit products in various industries. It uses QR codes, smart contracts, and the Ethereum network to provide a secure and transparent platform for tracking and verifying product authenticity. The system is significant in addressing global supply chain issues by reducing the prevalence of counterfeit goods and enhancing transparency and trust. 
 
-## Live Demo
-Here is a live demo of the full functionality of the project 
 
-[![Product Live Demo](https://img.youtube.com/vi/aWkgaCfMEn8/0.jpg)](https://www.youtube.com/watch?v=aWkgaCfMEn8 "Product Walkthrough")
-
-<!-- Here is a blog plost of this project:
-https://medium.com/p/68d23c7bc41c -->
 
 
 ## Table of Contents
@@ -55,8 +49,6 @@ To get started with this project,
 5. You can inspect `identeefi-smartcontract-solidity` directory to view the smart contract details that is deployed to the Sepolia Testnet.
 6. To perform transactions, setup your Metamask wallet and connect your wallet to the Sepolia Tesnet Network and transact using SepoliaETH which can be obtained for free on Seplolia Faucet (https://sepoliafaucet.com/).
 
-For more information, you can view our user manual:
-[View User Manual](/user-manual.pdf)
 
 
 
